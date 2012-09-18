@@ -1,3 +1,6 @@
+cover
+venv
+
 *.py[co]
 
 # Packages
